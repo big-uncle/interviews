@@ -4,7 +4,7 @@ import "fmt"
 
 // 一个数组成V字排序：开始递减，然后递增，然后输出最小值的索引
 //利用二分法  O(n)  时间复杂度
-
+//搜狐
 func main() {
 	a := []int{7, 6, 5, 2}
 	fmt.Println(Findmix(a))
